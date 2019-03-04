@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+div {
+    
+    box-shadow: 5px 5px 5px black;
+    margin: 15px;
+    
+}
+
+div[id ='card'] {
+    max-width: 300px;
+    flex: 1 1 15%;
+}
+p[id ='desc'] {
+    height: 155px;
+
+}
+
+p[id ='desc1'] {
+    height: 213px;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+div > header {
+    border: 1px solid lightblue;
+    text-align: center;
+    height: 80px;
+}
+
+header[id='last'] {
+    height: 110px;
+}
+
+section[id='specs']{
+font-weight: bold;
+
+}
+
+section[id='price']{
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+}
+p[id='av'] {
+    background-color: grey;
+    color: yellow;
+}
+
