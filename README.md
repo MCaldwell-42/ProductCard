@@ -3,7 +3,7 @@ Displays a mock website of products for sale
 
 # Screenshots
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/MCaldwell-42/ProductCard/master/pikascreenshot.png)
 
 # Getting Started
 
