@@ -16,13 +16,8 @@ div[id ='card'] {
     flex: 1 1 15%;
 }
 p[id ='desc'] {
-    height: 155px;
-
-}
-
-p[id ='desc1'] {
-    height: 213px;
-
+    height: 225px;
+    padding: 9px;
 }
 
 img {
@@ -36,7 +31,8 @@ div > header {
     height: 80px;
 }
 
-header[id='last'] {
+
+.title {
     height: 110px;
 }
 
